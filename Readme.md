@@ -34,6 +34,8 @@ npx satyakiran29
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="40" height="40"></a>
+<a href="https://www.blender.org/" title="Blender"><img src="https://github.com/get-icon/geticon/raw/master/icons/blender.svg" alt="Blender" width="40" height="40"></a>
+<a href="https://unity3d.com/" title="Unity"><img src="https://github.com/get-icon/geticon/raw/master/icons/unity.svg" alt="Unity" width="40" height="40"></a>
 
   <!--end of Expertise-->
   ## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="50"> Quick Overview
