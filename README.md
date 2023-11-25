@@ -23,6 +23,5 @@
 
 
 
-<p dir="auto"><em>Watch My Snake Eating My Contributions</em>:</p>
 
-![snake gif](https://github.com/satyakiran29/satyakiran/blob/output/github-contribution-grid-snake-dark.svg)
+
