@@ -8,7 +8,10 @@
 </div>
 
 ###
-
+[![Twitter: satyakiran029](https://img.shields.io/twitter/follow/satyakiran29?style=social)](https://twitter.com/satyakiran029)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://satyakiran.vercel.app/)](https://satyakiran.vercel.app/)
+[![GitHub satyakiran29](https://img.shields.io/github/followers/satyakiran29?label=follow&style=social)](https://github.com/satyakiran29)
+![](https://visitor-badge.glitch.me/badge?page_id=satyakiran29.satyakiran29)
 <div align="left">
   <a href="https://www.instagram.com/skdev29/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
