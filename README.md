@@ -52,7 +52,17 @@
 
 ###
 
-<br clear="both">
+👇 Type in your console or terminal to connect with me.
+
+```bash
+npx satyakiran29
+```
+**👆 This command line tool can be found at [npx satyakiran29](https://github.com/satyakiran29/npx-satyakiran29)**
+
+<!----About me---->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
+<!---My Projects---->
 
 <img src="https://raw.githubusercontent.com/Satyakiran29/Satyakiran29/output/snake.svg" alt="Snake animation" />
 
