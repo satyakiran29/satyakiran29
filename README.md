@@ -61,7 +61,9 @@ npx satyakiran29
 
 <!----About me---->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
+- 🖥 Learning App D𝚎𝚟𝚎𝚕𝚘𝚙ment <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌐Hobbist Web D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🎭 𝚋𝚝𝚠 you can connect with me on [Telegram](https://t.me/skdev1) 
 <!---My Projects---->
 
 <img src="https://raw.githubusercontent.com/Satyakiran29/Satyakiran29/output/snake.svg" alt="Snake animation" />
