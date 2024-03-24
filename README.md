@@ -68,6 +68,9 @@ npx satyakiran29
 - 🌐Hobbist Web D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎭 𝚋𝚝𝚠 you can connect with me on [Telegram](https://t.me/skdev1) 
 <!---My Projects---->
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRneHdjYWMxYXhvZmU3YzdqNWU3Y3Vpc25rbXEzdDZ3d3Jzajg3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" width="50"> Projects
+-
+
 
 <img src="https://raw.githubusercontent.com/Satyakiran29/Satyakiran29/output/snake.svg" alt="Snake animation" />
 
