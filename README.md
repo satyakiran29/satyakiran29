@@ -86,7 +86,7 @@ npx satyakiran29
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -119,12 +119,12 @@ Sunday                   165 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  7 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/11/2024 19:08:20 UTC
+ Last Updated on 13/11/2024 20:11:44 UTC
 <!--END_SECTION:waka-->
