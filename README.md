@@ -86,7 +86,7 @@ npx satyakiran29
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -126,5 +126,5 @@ Windows                  1 hr 17 mins        ███████████�
 ```
 
 
- Last Updated on 16/01/2025 06:14:21 UTC
+ Last Updated on 16/01/2025 07:09:57 UTC
 <!--END_SECTION:waka-->
