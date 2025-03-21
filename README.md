@@ -119,12 +119,12 @@ Sunday                   176 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/03/2025 19:08:40 UTC
+ Last Updated on 21/03/2025 20:11:45 UTC
 <!--END_SECTION:waka-->
