@@ -86,8 +86,6 @@ npx satyakiran29
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2020%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
@@ -126,5 +124,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/03/2025 18:14:46 UTC
+ Last Updated on 27/03/2025 19:08:43 UTC
 <!--END_SECTION:waka-->
