@@ -67,23 +67,16 @@ npx satyakiran29
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyakiran29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyakiran29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 <img src="https://raw.githubusercontent.com/Satyakiran29/Satyakiran29/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Satyakiran29/count.svg?"  />
-</div>
 
 ###
 
-- <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
+ <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2031%20mins-blue)
