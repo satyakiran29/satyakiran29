@@ -23,7 +23,7 @@ jobs:
       - name: Generate GitHub SVG cards
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GH_USERNAME: Shayan-02
+          GH_USERNAME: satyakiran29
         run: node scripts/github-cards.mjs
 
       - name: Commit & push if changed
