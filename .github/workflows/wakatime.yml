@@ -1,24 +1,21 @@
 name: Waka Readme
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs every day at midnight
-
+    - cron: "0 0 * * *"   # 每天 UTC 00:00
+  # run on every push on the master branch
+  push:
+    branches:
+    - main
+    
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      SHOW_LINES_OF_CODE : "True"
-          SHOW_LANGUAGE : "False"
-          SHOW_PROJECTS : "False"
-          SHOW_SHORT_INFO : "False"
-          SHOW_LANGUAGE_PER_REPO : "False"
-          SHOW_LOC_CHART : "False"
-          
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TOTAL: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          TIME_RANGE: last_year
