@@ -86,43 +86,11 @@ npx satyakiran29
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.59%20million%20lines%20of%20code-blue)
+```txt
+From: 25 December 2025 - To: 01 January 2026
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-🌆 Daytime                451 commits         ██████████░░░░░░░░░░░░░░░   39.49 % 
-🌃 Evening                430 commits         █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌙 Night                  154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Tuesday                  183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Wednesday                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Thursday                 183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Friday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Saturday                 170 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Sunday                   202 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+No activity tracked
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 02/01/2026 19:08:03 UTC
 <!--END_SECTION:waka-->
