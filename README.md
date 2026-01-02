@@ -76,15 +76,6 @@ npx satyakiran29
 
 ###
 
- <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
-## 📈 My GitHub Stats
-<p align="center">
-  <img src="./assets/github-stats.svg" />
-  <br/>
-  <img src="./assets/github-langs.svg" />
-</p> -->
-
-<!-- </p> -->
 
 ## 📊 My GitHub Stats
 <p align="center">
