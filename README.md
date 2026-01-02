@@ -77,13 +77,46 @@ npx satyakiran29
 ###
 
  <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
+## 📈 My GitHub Stats
+<p align="center">
+  <img src="./assets/github-stats.svg" />
+  <br/>
+  <img src="./assets/github-langs.svg" />
+</p> -->
 
-<!--START_SECTION:waka-->
+<!-- </p> -->
 
-```txt
-From: 25 December 2025 - To: 01 January 2026
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <br/>
+  <img src="./assets/github-activity.svg" alt="GitHub Activity" />
+  <br/>
+  <img src="./assets/github-langs.svg" alt="GitHub Languages" />
+</p>
 
-No activity tracked
-```
+<br>
+<br>
 
-<!--END_SECTION:waka-->
+## 📊 My Wakatime Stats
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/7a0e321c-6a7c-4913-9ddf-62794236e31f.svg">
+  <br>
+  <!-- <img src="./assets/wakatime.svg" alt="WakaTime Card (Radical)" /> -->
+  <h2>📊 My WakaTime</h2>
+
+<p align="center">
+  <img src="./assets/wakatime-langs.svg" alt="WakaTime Languages (All-time)" />
+</p>
+
+<p align="center">
+  <img src="./assets/wakatime-editors.svg" alt="WakaTime Editors (All-time)" />
+</p>
+
+<p align="center">
+  <img src="./assets/wakatime-os.svg" alt="WakaTime OS (All-time)" />
+</p>
+</p>
+
+---
