@@ -95,7 +95,7 @@
               font-family="ui-sans-serif, system-ui">HTML</text>
 
         <text x="364" y="226" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">387.7 KB</text>
+              font-family="ui-sans-serif, system-ui">387.4 KB</text>
 
         <rect x="380" y="214" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="214" rx="6" ry="6" width="30" height="10" fill="#F59E0B" filter="url(#barGlow)" />
@@ -169,7 +169,7 @@
         <rect x="380" y="350" rx="6" ry="6" width="6" height="10" fill="#0EA5E9" filter="url(#barGlow)" />
 
         <text x="872" y="362" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">1.42%</text>
+              font-family="ui-sans-serif, system-ui">1.43%</text>
       
 
         <circle cx="56" cy="390" r="5" fill="#22C55E" opacity="0.95"/>
