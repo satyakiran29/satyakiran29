@@ -95,13 +95,13 @@
               font-family="ui-sans-serif, system-ui">JavaScript</text>
 
         <text x="364" y="226" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">418.8 KB</text>
+              font-family="ui-sans-serif, system-ui">419.1 KB</text>
 
         <rect x="380" y="214" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="214" rx="6" ry="6" width="32" height="10" fill="#F59E0B" filter="url(#barGlow)" />
 
         <text x="872" y="226" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">7.84%</text>
+              font-family="ui-sans-serif, system-ui">7.85%</text>
       
 
         <circle cx="56" cy="254" r="5" fill="#38BDF8" opacity="0.95"/>
