@@ -95,13 +95,13 @@
               font-family="ui-sans-serif, system-ui">JavaScript</text>
 
         <text x="364" y="226" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">903.0 KB</text>
+              font-family="ui-sans-serif, system-ui">903.5 KB</text>
 
         <rect x="380" y="214" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="214" rx="6" ry="6" width="58" height="10" fill="#F59E0B" filter="url(#barGlow)" />
 
         <text x="872" y="226" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">14.25%</text>
+              font-family="ui-sans-serif, system-ui">14.26%</text>
       
 
         <circle cx="56" cy="254" r="5" fill="#38BDF8" opacity="0.95"/>
@@ -129,7 +129,7 @@
               font-family="ui-sans-serif, system-ui">CSS</text>
 
         <text x="364" y="294" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">374.2 KB</text>
+              font-family="ui-sans-serif, system-ui">374.3 KB</text>
 
         <rect x="380" y="282" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="282" rx="6" ry="6" width="24" height="10" fill="#14B8A6" filter="url(#barGlow)" />
