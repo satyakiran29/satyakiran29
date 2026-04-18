@@ -30,7 +30,7 @@
         font-family="ui-sans-serif, system-ui">Total: 10 langs</text>
 
   <text x="872" y="72" text-anchor="end" fill="#94A3B8" font-size="12" font-weight="650"
-        font-family="ui-sans-serif, system-ui">Top: Java (30.43%)</text>
+        font-family="ui-sans-serif, system-ui">Top: Java (30.41%)</text>
 
   <line x1="28" y1="98" x2="872" y2="98"
         stroke="#334155" stroke-width="1" opacity="0.75" />
@@ -50,7 +50,7 @@
         <rect x="380" y="112" rx="6" ry="6" width="125" height="10" fill="#0EA5E9" filter="url(#barGlow)" />
 
         <text x="872" y="124" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">30.43%</text>
+              font-family="ui-sans-serif, system-ui">30.41%</text>
       
 
         <circle cx="56" cy="152" r="5" fill="#22C55E" opacity="0.95"/>
@@ -67,7 +67,7 @@
         <rect x="380" y="146" rx="6" ry="6" width="87" height="10" fill="#22C55E" filter="url(#barGlow)" />
 
         <text x="872" y="158" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">21.32%</text>
+              font-family="ui-sans-serif, system-ui">21.31%</text>
       
 
         <circle cx="56" cy="186" r="5" fill="#A78BFA" opacity="0.95"/>
@@ -75,10 +75,10 @@
               font-family="ui-sans-serif, system-ui">#3</text>
 
         <text x="74" y="192" fill="#E5E7EB" font-size="14" font-weight="650"
-              font-family="ui-sans-serif, system-ui">Jupyter Notebook</text>
+              font-family="ui-sans-serif, system-ui">JavaScript</text>
 
         <text x="364" y="192" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">964.7 KB</text>
+              font-family="ui-sans-serif, system-ui">965.5 KB</text>
 
         <rect x="380" y="180" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="180" rx="6" ry="6" width="62" height="10" fill="#A78BFA" filter="url(#barGlow)" />
@@ -92,16 +92,16 @@
               font-family="ui-sans-serif, system-ui">#4</text>
 
         <text x="74" y="226" fill="#E5E7EB" font-size="14" font-weight="650"
-              font-family="ui-sans-serif, system-ui">JavaScript</text>
+              font-family="ui-sans-serif, system-ui">Jupyter Notebook</text>
 
         <text x="364" y="226" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">963.0 KB</text>
+              font-family="ui-sans-serif, system-ui">964.7 KB</text>
 
         <rect x="380" y="214" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="214" rx="6" ry="6" width="62" height="10" fill="#F59E0B" filter="url(#barGlow)" />
 
         <text x="872" y="226" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">15.02%</text>
+              font-family="ui-sans-serif, system-ui">15.04%</text>
       
 
         <circle cx="56" cy="254" r="5" fill="#38BDF8" opacity="0.95"/>
@@ -118,7 +118,7 @@
         <rect x="380" y="248" rx="6" ry="6" width="25" height="10" fill="#38BDF8" filter="url(#barGlow)" />
 
         <text x="872" y="260" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">6.16%</text>
+              font-family="ui-sans-serif, system-ui">6.15%</text>
       
 
         <circle cx="56" cy="288" r="5" fill="#14B8A6" opacity="0.95"/>
