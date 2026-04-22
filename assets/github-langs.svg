@@ -67,7 +67,7 @@
         <rect x="380" y="146" rx="6" ry="6" width="87" height="10" fill="#22C55E" filter="url(#barGlow)" />
 
         <text x="872" y="158" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">21.18%</text>
+              font-family="ui-sans-serif, system-ui">21.17%</text>
       
 
         <circle cx="56" cy="186" r="5" fill="#A78BFA" opacity="0.95"/>
@@ -78,13 +78,13 @@
               font-family="ui-sans-serif, system-ui">JavaScript</text>
 
         <text x="364" y="192" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">1005.1 KB</text>
+              font-family="ui-sans-serif, system-ui">1005.8 KB</text>
 
         <rect x="380" y="180" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="180" rx="6" ry="6" width="64" height="10" fill="#A78BFA" filter="url(#barGlow)" />
 
         <text x="872" y="192" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">15.57%</text>
+              font-family="ui-sans-serif, system-ui">15.58%</text>
       
 
         <circle cx="56" cy="220" r="5" fill="#F59E0B" opacity="0.95"/>
