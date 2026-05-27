@@ -62,7 +62,107 @@ npx satyakiran29
 - 🎭 𝚋𝚝𝚠 you can connect with me on [Telegram](https://t.me/skdev1) 
 <!---My Projects---->
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRneHdjYWMxYXhvZmU3YzdqNWU3Y3Vpc25rbXEzdDZ3d3Jzajg3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" width="50"> Projects
--
+
+### 🚀 Full-Stack & Web Apps
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/skdev-web">skdev-web</a></h4>
+      <a href="https://github.com/satyakiran29/skdev-web"><img src="https://img.shields.io/github/stars/satyakiran29/skdev-web?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/skdev-web"><img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language" /></a>
+      <a href="https://skdev.vercel.app"><img src="https://img.shields.io/badge/Demo-Live-green?style=flat-square" alt="Live Demo" /></a>
+      <br><br>
+      <i>The official developer website and portfolio platform for Skdev.</i>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/satyakiran29.github.io">satyakiran29.github.io</a></h4>
+      <a href="https://github.com/satyakiran29/satyakiran29.github.io"><img src="https://img.shields.io/github/stars/satyakiran29/satyakiran29.github.io?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/satyakiran29.github.io"><img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language" /></a>
+      <a href="https://satyakiran.vercel.app/"><img src="https://img.shields.io/badge/Demo-Live-green?style=flat-square" alt="Live Demo" /></a>
+      <br><br>
+      <i>A personal portfolio website built with React.js to showcase projects, skills, and experience.</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/Anify_web">Anify_web</a></h4>
+      <a href="https://github.com/satyakiran29/Anify_web"><img src="https://img.shields.io/github/stars/satyakiran29/Anify_web?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/Anify_web"><img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language" /></a>
+      <a href="http://anify.psatyakiran.in/"><img src="https://img.shields.io/badge/Demo-Live-green?style=flat-square" alt="Live Demo" /></a>
+      <br><br>
+      <i>An anime & media frontend website.</i>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/MernShop">MernShop</a></h4>
+      <a href="https://github.com/satyakiran29/MernShop"><img src="https://img.shields.io/github/stars/satyakiran29/MernShop?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/MernShop"><img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language" /></a>
+      <br><br>
+      <i>A minimalist e-commerce platform built with the MERN stack, featuring role-based access control, Stripe payments, and a clean shopping experience.</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/OTIS">OTIS & OTIS_API</a></h4>
+      <a href="https://github.com/satyakiran29/OTIS"><img src="https://img.shields.io/github/stars/satyakiran29/OTIS?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/OTIS"><img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language" /></a>
+      <a href="https://otis-c10.vercel.app"><img src="https://img.shields.io/badge/Demo-Live-green?style=flat-square" alt="Live Demo" /></a>
+      <br><br>
+      <i>Online Temple Information System. An application built with a Node/Express backend API (deployed to Render) and a React frontend (deployed to Vercel).</i>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/chronic-disease-website-using-ml">Chronic Disease Website using ML</a></h4>
+      <a href="https://github.com/satyakiran29/chronic-disease-website-using-ml"><img src="https://img.shields.io/github/stars/satyakiran29/chronic-disease-website-using-ml?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/chronic-disease-website-using-ml"><img src="https://img.shields.io/badge/Language-HTML%20%2F%20Python-orange?style=flat-square" alt="Language" /></a>
+      <br><br>
+      <i>A web-based application that predicts the likelihood of chronic diseases (like diabetes, heart disease, etc.) using machine learning algorithms.</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/fake-store-react">Fake Store React</a></h4>
+      <a href="https://github.com/satyakiran29/fake-store-react"><img src="https://img.shields.io/github/stars/satyakiran29/fake-store-react?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/fake-store-react"><img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language" /></a>
+      <br><br>
+      <i>A simple e-commerce frontend built using React Hooks and Axios, showcasing products from an external API with load-more functionality.</i>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Utilities, APIs & Tools
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/npx-satyakiran29">npx-satyakiran29</a></h4>
+      <a href="https://github.com/satyakiran29/npx-satyakiran29"><img src="https://img.shields.io/github/stars/satyakiran29/npx-satyakiran29?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/npx-satyakiran29"><img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language" /></a>
+      <a href="https://www.npmjs.com/package/satyakiran29"><img src="https://img.shields.io/badge/NPM-satyakiran29-red?style=flat-square" alt="NPM Package" /></a>
+      <br><br>
+      <i>A personalized interactive terminal card CLI tool. Run <code>npx satyakiran29</code> in your console to connect!</i>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/aniset">aniset & Aniset_Web</a></h4>
+      <a href="https://github.com/satyakiran29/aniset"><img src="https://img.shields.io/github/stars/satyakiran29/aniset?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/aniset"><img src="https://img.shields.io/badge/Language-HTML%20%2F%20CSS-blue?style=flat-square" alt="Language" /></a>
+      <br><br>
+      <i>Wallpaper server and its corresponding React website frontend.</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/my_linux_asus_a15">my_linux_asus_a15</a></h4>
+      <a href="https://github.com/satyakiran29/my_linux_asus_a15"><img src="https://img.shields.io/github/stars/satyakiran29/my_linux_asus_a15?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/my_linux_asus_a15"><img src="https://img.shields.io/badge/Language-Config-lightgrey?style=flat-square" alt="Language" /></a>
+      <br><br>
+      <i>Fixes and custom solutions compiled for Linux on the ASUS A15.</i>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
 
 ###
