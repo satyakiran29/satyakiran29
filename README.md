@@ -127,6 +127,27 @@ npx satyakiran29
       <i>A simple e-commerce frontend built using React Hooks and Axios, showcasing products from an external API with load-more functionality.</i>
     </td>
     <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/Aniset_Web">Aniset_Web</a></h4>
+      <a href="https://github.com/satyakiran29/Aniset_Web"><img src="https://img.shields.io/github/stars/satyakiran29/Aniset_Web?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/Aniset_Web"><img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language" /></a>
+      <br><br>
+      <i>A React website frontend for the Aniset wallpaper service.</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/hackthon_2025_Web">hackthon_2025_Web</a></h4>
+      <a href="https://github.com/satyakiran29/hackthon_2025_Web"><img src="https://img.shields.io/github/stars/satyakiran29/hackthon_2025_Web?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/hackthon_2025_Web"><img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square" alt="Language" /></a>
+      <br><br>
+      <i>A web application developed for Hackathon 2025.</i>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/satyakiran29/Student_mangement_system">Student_mangement_system</a></h4>
+      <a href="https://github.com/satyakiran29/Student_mangement_system"><img src="https://img.shields.io/github/stars/satyakiran29/Student_mangement_system?style=flat-square&color=yellow" alt="Stars" /></a>
+      <a href="https://github.com/satyakiran29/Student_mangement_system"><img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square" alt="Language" /></a>
+      <br><br>
+      <i>A Student Management System web application.</i>
     </td>
   </tr>
 </table>
@@ -144,11 +165,11 @@ npx satyakiran29
       <i>A personalized interactive terminal card CLI tool. Run <code>npx satyakiran29</code> in your console to connect!</i>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/satyakiran29/aniset">aniset & Aniset_Web</a></h4>
+      <h4><a href="https://github.com/satyakiran29/aniset">aniset</a></h4>
       <a href="https://github.com/satyakiran29/aniset"><img src="https://img.shields.io/github/stars/satyakiran29/aniset?style=flat-square&color=yellow" alt="Stars" /></a>
       <a href="https://github.com/satyakiran29/aniset"><img src="https://img.shields.io/badge/Language-HTML%20%2F%20CSS-blue?style=flat-square" alt="Language" /></a>
       <br><br>
-      <i>Wallpaper server and its corresponding React website frontend.</i>
+      <i>Wallpaper server and backend API service.</i>
     </td>
   </tr>
   <tr>
