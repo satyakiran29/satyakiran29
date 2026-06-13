@@ -44,7 +44,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/satyakiran29/satyakiran29/main/Images/satoru_gojo.png"  />
+
 
 ###
 
