@@ -25,10 +25,10 @@
         font-family="ui-sans-serif, system-ui">Updated hourly</text>
 
   <text x="872" y="46" text-anchor="end" fill="#e4e4e7" font-size="14" font-weight="800"
-        font-family="ui-sans-serif, system-ui">Total: 131h 21m</text>
+        font-family="ui-sans-serif, system-ui">Total: 132h 31m</text>
 
   <text x="872" y="72" text-anchor="end" fill="#9aa4bf" font-size="12" font-weight="700"
-        font-family="ui-sans-serif, system-ui">Top: JavaScript (25.22%)</text>
+        font-family="ui-sans-serif, system-ui">Top: JavaScript (25.00%)</text>
 
   <line x1="28" y1="88" x2="872" y2="88"
         stroke="#334155" stroke-width="1" opacity="0.65" />
@@ -51,7 +51,7 @@
               fill="#ff4d6d" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="112" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">25.22%</text>
+              font-family="ui-sans-serif, system-ui">25.00%</text>
       
 
         <circle cx="56" cy="140" r="5" fill="#f1fa8c" opacity="1"/>
@@ -63,15 +63,15 @@
               font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto">Python</text>
 
         <text x="364" y="146" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">23 hrs 44 mins</text>
+              font-family="ui-sans-serif, system-ui">24 hrs 54 mins</text>
 
         <rect x="380" y="134" rx="6" ry="6" width="410" height="10" fill="#2a2b3d" />
 
-        <rect x="380" y="134" rx="6" ry="6" width="74" height="10"
+        <rect x="380" y="134" rx="6" ry="6" width="77" height="10"
               fill="#f1fa8c" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="146" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">18.07%</text>
+              font-family="ui-sans-serif, system-ui">18.80%</text>
       
 
         <circle cx="56" cy="174" r="5" fill="#ff4d6d" opacity="0.85"/>
@@ -87,11 +87,11 @@
 
         <rect x="380" y="168" rx="6" ry="6" width="410" height="10" fill="#2a2b3d" />
 
-        <rect x="380" y="168" rx="6" ry="6" width="63" height="10"
+        <rect x="380" y="168" rx="6" ry="6" width="62" height="10"
               fill="#ff4d6d" opacity="0.85" filter="url(#barGlow)" />
 
         <text x="872" y="180" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">15.33%</text>
+              font-family="ui-sans-serif, system-ui">15.20%</text>
       
 
         <circle cx="56" cy="208" r="5" fill="#50fa7b" opacity="1"/>
@@ -107,11 +107,11 @@
 
         <rect x="380" y="202" rx="6" ry="6" width="410" height="10" fill="#2a2b3d" />
 
-        <rect x="380" y="202" rx="6" ry="6" width="60" height="10"
+        <rect x="380" y="202" rx="6" ry="6" width="59" height="10"
               fill="#50fa7b" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="214" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">14.64%</text>
+              font-family="ui-sans-serif, system-ui">14.51%</text>
       
 
         <circle cx="56" cy="242" r="5" fill="#bd93f9" opacity="1"/>
@@ -127,11 +127,11 @@
 
         <rect x="380" y="236" rx="6" ry="6" width="410" height="10" fill="#2a2b3d" />
 
-        <rect x="380" y="236" rx="6" ry="6" width="34" height="10"
+        <rect x="380" y="236" rx="6" ry="6" width="33" height="10"
               fill="#bd93f9" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="248" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">8.19%</text>
+              font-family="ui-sans-serif, system-ui">8.12%</text>
       
 
         <circle cx="56" cy="276" r="5" fill="#ffb86c" opacity="1"/>
@@ -151,7 +151,7 @@
               fill="#ffb86c" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="282" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">4.97%</text>
+              font-family="ui-sans-serif, system-ui">4.93%</text>
       
 
         <circle cx="56" cy="310" r="5" fill="#ff79c6" opacity="1"/>
@@ -171,7 +171,7 @@
               fill="#ff79c6" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="316" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">3.70%</text>
+              font-family="ui-sans-serif, system-ui">3.67%</text>
       
 
         <circle cx="56" cy="344" r="5" fill="#ff4d6d" opacity="1"/>
@@ -191,7 +191,7 @@
               fill="#ff4d6d" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="350" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">3.18%</text>
+              font-family="ui-sans-serif, system-ui">3.15%</text>
       
 
         <circle cx="56" cy="378" r="5" fill="#f1fa8c" opacity="1"/>
@@ -211,7 +211,7 @@
               fill="#f1fa8c" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="384" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">1.70%</text>
+              font-family="ui-sans-serif, system-ui">1.68%</text>
       
 
         <circle cx="56" cy="412" r="5" fill="#8be9fd" opacity="1"/>
@@ -231,6 +231,6 @@
               fill="#8be9fd" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="418" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">1.07%</text>
+              font-family="ui-sans-serif, system-ui">1.06%</text>
       
 </svg>

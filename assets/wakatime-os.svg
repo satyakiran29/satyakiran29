@@ -25,10 +25,10 @@
         font-family="ui-sans-serif, system-ui">Updated hourly</text>
 
   <text x="872" y="46" text-anchor="end" fill="#e4e4e7" font-size="14" font-weight="800"
-        font-family="ui-sans-serif, system-ui">Total: 131h 21m</text>
+        font-family="ui-sans-serif, system-ui">Total: 132h 31m</text>
 
   <text x="872" y="72" text-anchor="end" fill="#9aa4bf" font-size="12" font-weight="700"
-        font-family="ui-sans-serif, system-ui">Top: Windows (99.00%)</text>
+        font-family="ui-sans-serif, system-ui">Top: Windows (99.01%)</text>
 
   <line x1="28" y1="88" x2="872" y2="88"
         stroke="#334155" stroke-width="1" opacity="0.65" />
@@ -43,7 +43,7 @@
               font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto">Windows</text>
 
         <text x="364" y="112" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">130 hrs 2 mins</text>
+              font-family="ui-sans-serif, system-ui">131 hrs 12 mins</text>
 
         <rect x="380" y="100" rx="6" ry="6" width="410" height="10" fill="#2a2b3d" />
 
@@ -51,7 +51,7 @@
               fill="#ff4d6d" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="112" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">99.00%</text>
+              font-family="ui-sans-serif, system-ui">99.01%</text>
       
 
         <circle cx="56" cy="140" r="5" fill="#f1fa8c" opacity="1"/>
@@ -59,7 +59,7 @@
         <text x="28" y="146" fill="#9aa4bf" font-size="12" font-weight="700"
               font-family="ui-sans-serif, system-ui">#2</text>
 
-        <text x="74" y="146" fill="#e4e4e7" opacity="1" font-size="14"
+        <text x="74" y="146" fill="#cbd5e1" opacity="0.92" font-size="14"
               font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto">Linux</text>
 
         <text x="364" y="146" text-anchor="end" fill="#9aa4bf" font-size="13"
@@ -71,6 +71,6 @@
               fill="#f1fa8c" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="146" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">1.00%</text>
+              font-family="ui-sans-serif, system-ui">0.99%</text>
       
 </svg>
