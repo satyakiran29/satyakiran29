@@ -25,10 +25,10 @@
         font-family="ui-sans-serif, system-ui">Updated hourly</text>
 
   <text x="872" y="46" text-anchor="end" fill="#e4e4e7" font-size="14" font-weight="800"
-        font-family="ui-sans-serif, system-ui">Total: 165h 21m</text>
+        font-family="ui-sans-serif, system-ui">Total: 166h 44m</text>
 
   <text x="872" y="72" text-anchor="end" fill="#9aa4bf" font-size="12" font-weight="700"
-        font-family="ui-sans-serif, system-ui">Top: VS Code (70.47%)</text>
+        font-family="ui-sans-serif, system-ui">Top: VS Code (70.45%)</text>
 
   <line x1="28" y1="88" x2="872" y2="88"
         stroke="#334155" stroke-width="1" opacity="0.65" />
@@ -43,7 +43,7 @@
               font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto">VS Code</text>
 
         <text x="364" y="112" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">116 hrs 31 mins</text>
+              font-family="ui-sans-serif, system-ui">117 hrs 27 mins</text>
 
         <rect x="380" y="100" rx="6" ry="6" width="410" height="10" fill="#2a2b3d" />
 
@@ -51,7 +51,7 @@
               fill="#ff4d6d" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="112" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">70.47%</text>
+              font-family="ui-sans-serif, system-ui">70.45%</text>
       
 
         <circle cx="56" cy="140" r="5" fill="#f1fa8c" opacity="1"/>
@@ -63,7 +63,7 @@
               font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto">Antigravity IDE</text>
 
         <text x="364" y="146" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">20 hrs 50 mins</text>
+              font-family="ui-sans-serif, system-ui">21 hrs 17 mins</text>
 
         <rect x="380" y="134" rx="6" ry="6" width="410" height="10" fill="#2a2b3d" />
 
@@ -71,7 +71,7 @@
               fill="#f1fa8c" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="146" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">12.60%</text>
+              font-family="ui-sans-serif, system-ui">12.77%</text>
       
 
         <circle cx="56" cy="174" r="5" fill="#8be9fd" opacity="1"/>
@@ -87,11 +87,11 @@
 
         <rect x="380" y="168" rx="6" ry="6" width="410" height="10" fill="#2a2b3d" />
 
-        <rect x="380" y="168" rx="6" ry="6" width="47" height="10"
+        <rect x="380" y="168" rx="6" ry="6" width="46" height="10"
               fill="#8be9fd" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="180" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">11.40%</text>
+              font-family="ui-sans-serif, system-ui">11.30%</text>
       
 
         <circle cx="56" cy="208" r="5" fill="#50fa7b" opacity="1"/>
@@ -107,11 +107,11 @@
 
         <rect x="380" y="202" rx="6" ry="6" width="410" height="10" fill="#2a2b3d" />
 
-        <rect x="380" y="202" rx="6" ry="6" width="21" height="10"
+        <rect x="380" y="202" rx="6" ry="6" width="20" height="10"
               fill="#50fa7b" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="214" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">5.01%</text>
+              font-family="ui-sans-serif, system-ui">4.97%</text>
       
 
         <circle cx="56" cy="242" r="5" fill="#bd93f9" opacity="1"/>
@@ -131,6 +131,6 @@
               fill="#bd93f9" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="248" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">0.52%</text>
+              font-family="ui-sans-serif, system-ui">0.51%</text>
       
 </svg>
