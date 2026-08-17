@@ -30,7 +30,7 @@
         font-family="ui-sans-serif, system-ui">Total: 10 langs</text>
 
   <text x="872" y="72" text-anchor="end" fill="#94A3B8" font-size="12" font-weight="650"
-        font-family="ui-sans-serif, system-ui">Top: Jupyter Notebook (48.55%)</text>
+        font-family="ui-sans-serif, system-ui">Top: Jupyter Notebook (48.51%)</text>
 
   <line x1="28" y1="98" x2="872" y2="98"
         stroke="#334155" stroke-width="1" opacity="0.75" />
@@ -50,7 +50,7 @@
         <rect x="380" y="112" rx="6" ry="6" width="199" height="10" fill="#0EA5E9" filter="url(#barGlow)" />
 
         <text x="872" y="124" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">48.55%</text>
+              font-family="ui-sans-serif, system-ui">48.51%</text>
       
 
         <circle cx="56" cy="152" r="5" fill="#22C55E" opacity="0.95"/>
@@ -67,7 +67,7 @@
         <rect x="380" y="146" rx="6" ry="6" width="73" height="10" fill="#22C55E" filter="url(#barGlow)" />
 
         <text x="872" y="158" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">17.75%</text>
+              font-family="ui-sans-serif, system-ui">17.73%</text>
       
 
         <circle cx="56" cy="186" r="5" fill="#A78BFA" opacity="0.95"/>
@@ -84,7 +84,7 @@
         <rect x="380" y="180" rx="6" ry="6" width="56" height="10" fill="#A78BFA" filter="url(#barGlow)" />
 
         <text x="872" y="192" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">13.75%</text>
+              font-family="ui-sans-serif, system-ui">13.74%</text>
       
 
         <circle cx="56" cy="220" r="5" fill="#F59E0B" opacity="0.95"/>
@@ -101,7 +101,7 @@
         <rect x="380" y="214" rx="6" ry="6" width="43" height="10" fill="#F59E0B" filter="url(#barGlow)" />
 
         <text x="872" y="226" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">10.53%</text>
+              font-family="ui-sans-serif, system-ui">10.55%</text>
       
 
         <circle cx="56" cy="254" r="5" fill="#38BDF8" opacity="0.95"/>
@@ -112,13 +112,13 @@
               font-family="ui-sans-serif, system-ui">CSS</text>
 
         <text x="364" y="260" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">448.3 KB</text>
+              font-family="ui-sans-serif, system-ui">454.0 KB</text>
 
         <rect x="380" y="248" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="248" rx="6" ry="6" width="13" height="10" fill="#38BDF8" filter="url(#barGlow)" />
 
         <text x="872" y="260" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">3.16%</text>
+              font-family="ui-sans-serif, system-ui">3.20%</text>
       
 
         <circle cx="56" cy="288" r="5" fill="#14B8A6" opacity="0.95"/>
@@ -129,13 +129,13 @@
               font-family="ui-sans-serif, system-ui">HTML</text>
 
         <text x="364" y="294" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">438.7 KB</text>
+              font-family="ui-sans-serif, system-ui">439.8 KB</text>
 
         <rect x="380" y="282" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="282" rx="6" ry="6" width="13" height="10" fill="#14B8A6" filter="url(#barGlow)" />
 
         <text x="872" y="294" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">3.09%</text>
+              font-family="ui-sans-serif, system-ui">3.10%</text>
       
 
         <circle cx="56" cy="322" r="5" fill="#EAB308" opacity="0.95"/>
@@ -166,7 +166,7 @@
               font-family="ui-sans-serif, system-ui">121.2 KB</text>
 
         <rect x="380" y="350" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
-        <rect x="380" y="350" rx="6" ry="6" width="4" height="10" fill="#0EA5E9" filter="url(#barGlow)" />
+        <rect x="380" y="350" rx="6" ry="6" width="3" height="10" fill="#0EA5E9" filter="url(#barGlow)" />
 
         <text x="872" y="362" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
               font-family="ui-sans-serif, system-ui">0.85%</text>
