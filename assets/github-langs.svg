@@ -30,7 +30,7 @@
         font-family="ui-sans-serif, system-ui">Total: 10 langs</text>
 
   <text x="872" y="72" text-anchor="end" fill="#94A3B8" font-size="12" font-weight="650"
-        font-family="ui-sans-serif, system-ui">Top: Jupyter Notebook (33.02%)</text>
+        font-family="ui-sans-serif, system-ui">Top: Jupyter Notebook (32.73%)</text>
 
   <line x1="28" y1="98" x2="872" y2="98"
         stroke="#334155" stroke-width="1" opacity="0.75" />
@@ -47,10 +47,10 @@
               font-family="ui-sans-serif, system-ui">4.5 MB</text>
 
         <rect x="380" y="112" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
-        <rect x="380" y="112" rx="6" ry="6" width="135" height="10" fill="#0EA5E9" filter="url(#barGlow)" />
+        <rect x="380" y="112" rx="6" ry="6" width="134" height="10" fill="#0EA5E9" filter="url(#barGlow)" />
 
         <text x="872" y="124" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">33.02%</text>
+              font-family="ui-sans-serif, system-ui">32.73%</text>
       
 
         <circle cx="56" cy="152" r="5" fill="#22C55E" opacity="0.95"/>
@@ -67,7 +67,7 @@
         <rect x="380" y="146" rx="6" ry="6" width="76" height="10" fill="#22C55E" filter="url(#barGlow)" />
 
         <text x="872" y="158" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">18.45%</text>
+              font-family="ui-sans-serif, system-ui">18.49%</text>
       
 
         <circle cx="56" cy="186" r="5" fill="#A78BFA" opacity="0.95"/>
@@ -81,10 +81,10 @@
               font-family="ui-sans-serif, system-ui">2.5 MB</text>
 
         <rect x="380" y="180" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
-        <rect x="380" y="180" rx="6" ry="6" width="75" height="10" fill="#A78BFA" filter="url(#barGlow)" />
+        <rect x="380" y="180" rx="6" ry="6" width="74" height="10" fill="#A78BFA" filter="url(#barGlow)" />
 
         <text x="872" y="192" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">18.23%</text>
+              font-family="ui-sans-serif, system-ui">18.07%</text>
       
 
         <circle cx="56" cy="220" r="5" fill="#F59E0B" opacity="0.95"/>
@@ -95,13 +95,13 @@
               font-family="ui-sans-serif, system-ui">JavaScript</text>
 
         <text x="364" y="226" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">1.7 MB</text>
+              font-family="ui-sans-serif, system-ui">1.8 MB</text>
 
         <rect x="380" y="214" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
-        <rect x="380" y="214" rx="6" ry="6" width="53" height="10" fill="#F59E0B" filter="url(#barGlow)" />
+        <rect x="380" y="214" rx="6" ry="6" width="54" height="10" fill="#F59E0B" filter="url(#barGlow)" />
 
         <text x="872" y="226" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">12.90%</text>
+              font-family="ui-sans-serif, system-ui">13.07%</text>
       
 
         <circle cx="56" cy="254" r="5" fill="#38BDF8" opacity="0.95"/>
@@ -112,13 +112,13 @@
               font-family="ui-sans-serif, system-ui">HTML</text>
 
         <text x="364" y="260" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">808.9 KB</text>
+              font-family="ui-sans-serif, system-ui">840.0 KB</text>
 
         <rect x="380" y="248" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
-        <rect x="380" y="248" rx="6" ry="6" width="24" height="10" fill="#38BDF8" filter="url(#barGlow)" />
+        <rect x="380" y="248" rx="6" ry="6" width="25" height="10" fill="#38BDF8" filter="url(#barGlow)" />
 
         <text x="872" y="260" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">5.85%</text>
+              font-family="ui-sans-serif, system-ui">6.03%</text>
       
 
         <circle cx="56" cy="288" r="5" fill="#14B8A6" opacity="0.95"/>
@@ -126,16 +126,16 @@
               font-family="ui-sans-serif, system-ui">#6</text>
 
         <text x="74" y="294" fill="#E5E7EB" font-size="14" font-weight="650"
-              font-family="ui-sans-serif, system-ui">Python</text>
+              font-family="ui-sans-serif, system-ui">CSS</text>
 
         <text x="364" y="294" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">632.4 KB</text>
+              font-family="ui-sans-serif, system-ui">654.3 KB</text>
 
         <rect x="380" y="282" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="282" rx="6" ry="6" width="19" height="10" fill="#14B8A6" filter="url(#barGlow)" />
 
         <text x="872" y="294" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">4.58%</text>
+              font-family="ui-sans-serif, system-ui">4.69%</text>
       
 
         <circle cx="56" cy="322" r="5" fill="#EAB308" opacity="0.95"/>
@@ -143,16 +143,16 @@
               font-family="ui-sans-serif, system-ui">#7</text>
 
         <text x="74" y="328" fill="#E5E7EB" font-size="14" font-weight="650"
-              font-family="ui-sans-serif, system-ui">CSS</text>
+              font-family="ui-sans-serif, system-ui">Python</text>
 
         <text x="364" y="328" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="650"
-              font-family="ui-sans-serif, system-ui">632.2 KB</text>
+              font-family="ui-sans-serif, system-ui">632.4 KB</text>
 
         <rect x="380" y="316" rx="6" ry="6" width="410" height="10" fill="#1F2937" opacity="0.95"/>
         <rect x="380" y="316" rx="6" ry="6" width="19" height="10" fill="#EAB308" filter="url(#barGlow)" />
 
         <text x="872" y="328" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">4.58%</text>
+              font-family="ui-sans-serif, system-ui">4.54%</text>
       
 
         <circle cx="56" cy="356" r="5" fill="#0EA5E9" opacity="0.95"/>
@@ -169,7 +169,7 @@
         <rect x="380" y="350" rx="6" ry="6" width="6" height="10" fill="#0EA5E9" filter="url(#barGlow)" />
 
         <text x="872" y="362" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">1.57%</text>
+              font-family="ui-sans-serif, system-ui">1.55%</text>
       
 
         <circle cx="56" cy="390" r="5" fill="#22C55E" opacity="0.95"/>
@@ -186,7 +186,7 @@
         <rect x="380" y="384" rx="6" ry="6" width="2" height="10" fill="#22C55E" filter="url(#barGlow)" />
 
         <text x="872" y="396" text-anchor="end" fill="#94A3B8" font-size="13" font-weight="700"
-              font-family="ui-sans-serif, system-ui">0.55%</text>
+              font-family="ui-sans-serif, system-ui">0.54%</text>
       
 
         <circle cx="56" cy="424" r="5" fill="#A78BFA" opacity="0.95"/>
