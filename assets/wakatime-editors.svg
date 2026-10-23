@@ -71,7 +71,7 @@
               fill="#f1fa8c" opacity="1" filter="url(#barGlow)" />
 
         <text x="872" y="146" text-anchor="end" fill="#9aa4bf" font-size="13"
-              font-family="ui-sans-serif, system-ui">23.09%</text>
+              font-family="ui-sans-serif, system-ui">23.08%</text>
       
 
         <circle cx="56" cy="174" r="5" fill="#8be9fd" opacity="1"/>
